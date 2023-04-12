@@ -1,0 +1,15 @@
+{
+  "cookiecutter": {
+    "codeowner_github_usernames": "@glennmatthews",
+    "description": "Embed data files such as YAML as tables in a Markdown document",
+    "project_name": "Markdown Data Tables",
+    "project_slug": "markdown-data-tables",
+    "project_python_name": "markdown_data_tables",
+    "project_python_base_version": "3.8",
+    "project_with_config_settings": "no",
+    "generate_docs": "yes",
+    "version": "1.0.0",
+    "_template": "cookiecutter-ntc/python",
+    "_output_dir": "/Users/glennmatthews/Documents/git-stuff"
+  }
+}
